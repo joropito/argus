@@ -1,0 +1,15 @@
+TODO
+- plugin class
+- plugin manager class
+- native management
+- forward management
+
+- modules
+	snmp
+	bmath
+	sockets
+	sqlite3
+	mysql
+	odbc
+	curl
+	xml
